@@ -1,0 +1,14 @@
+{
+    "weipingtai": {
+        "main":"http://localhost:18018",
+        "guimo": "http://localhost:18018/ins/devices/getEquipmentSize/num/0/0", 
+        "taizhang": "http://localhost:18018/ins/devices/queryEquipmentList/", 
+        "chuanganqi": "http://localhost:18018/ins/devices/querySensorList/", 
+        "alarm": "http://localhost:18018/ins/devices/getWarningDataList/1/10", 
+        "video": "http://localhost:18018/"
+    }, 
+    "gpu": {
+        "relayserver": "localhost:18012", 
+        "videoserver": "localhost:15111"
+    }
+}
